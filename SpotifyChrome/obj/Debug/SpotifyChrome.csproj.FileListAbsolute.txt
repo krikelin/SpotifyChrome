@@ -1,0 +1,11 @@
+C:\Users\alex\Documents\Visual Studio 2012\Projects\SpotifyChrome\SpotifyChrome\bin\Debug\SpotifyChrome.exe.config
+C:\Users\alex\Documents\Visual Studio 2012\Projects\SpotifyChrome\SpotifyChrome\bin\Debug\SpotifyChrome.exe
+C:\Users\alex\Documents\Visual Studio 2012\Projects\SpotifyChrome\SpotifyChrome\bin\Debug\SpotifyChrome.pdb
+C:\Users\alex\Documents\Visual Studio 2012\Projects\SpotifyChrome\SpotifyChrome\obj\Debug\SpotifyChrome.csprojResolveAssemblyReference.cache
+C:\Users\alex\Documents\Visual Studio 2012\Projects\SpotifyChrome\SpotifyChrome\obj\Debug\SpotifyChrome.Form1.resources
+C:\Users\alex\Documents\Visual Studio 2012\Projects\SpotifyChrome\SpotifyChrome\obj\Debug\SpotifyChrome.Properties.Resources.resources
+C:\Users\alex\Documents\Visual Studio 2012\Projects\SpotifyChrome\SpotifyChrome\obj\Debug\SpotifyChrome.csproj.GenerateResource.Cache
+C:\Users\alex\Documents\Visual Studio 2012\Projects\SpotifyChrome\SpotifyChrome\obj\Debug\SpotifyChrome.exe
+C:\Users\alex\Documents\Visual Studio 2012\Projects\SpotifyChrome\SpotifyChrome\obj\Debug\SpotifyChrome.pdb
+C:\Users\alex\Documents\Visual Studio 2012\Projects\SpotifyChrome\SpotifyChrome\obj\Debug\SpotifyChrome.SPHeader.resources
+C:\Users\alex\Documents\Visual Studio 2012\Projects\SpotifyChrome\SpotifyChrome\obj\Debug\SpotifyChrome.SPFooter.resources
